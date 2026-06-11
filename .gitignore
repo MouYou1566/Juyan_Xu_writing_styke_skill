@@ -1,1 +1,8 @@
-.claude/skills/xu-juyan-style/SKILL.md
+# 只保留 skill 部分
+/*
+!/.gitignore
+!/.claude
+!/.claude/skills
+!/.claude/skills/xu-juyan-style
+!/.claude/skills/xu-juyan-style/SKILL.md
+!/README.md
